@@ -1,0 +1,17 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 25px;
+    color: rgb(179, 13, 230);
+}
+
+body {
+    background-color: rgb(4, 236, 82);
+}
+
+p {
+    background-color: rgba(61, 204, 109, 0.671);
+    border: 3px solid rgb(231, 34, 198);
+    border-radius: 100px;
+    padding: 10px;
+}
